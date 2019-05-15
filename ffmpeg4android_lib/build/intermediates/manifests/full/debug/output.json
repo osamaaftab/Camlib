@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":3220303,"versionName":"3.22.03.03","enabled":true,"outputFile":"ffmpeg4android_lib-debug.aar","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.netcompss.ffmpeg4android","split":""}}]

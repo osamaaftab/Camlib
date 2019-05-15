@@ -1,0 +1,1 @@
+include ':app', ':camlibrary', ':ffmpeg4android_lib'

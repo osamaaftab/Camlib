@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="marginLayoutLR">15dp</dimen>
+    <dimen name="textSize">15dp</dimen>
+
+    <dimen name="btnWidth">200dp</dimen>
+    <dimen name="btnTextSize">18dp</dimen>
+    <dimen name="btnElevation">5dp</dimen>
+
+    <!-- VIDEO TRIMMER-->
+    <dimen name="progress_video_line_height">2dp</dimen>
+    <dimen name="frames_video_height">40dip</dimen>
+
+</resources>
